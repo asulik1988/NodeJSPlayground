@@ -1,0 +1,19 @@
+{
+  "name": "node-js-playground",
+  "version": "0.0.1",
+  "description": "My very first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asulik1988/NodeJSPlayground.git"
+  },
+  "author": "Adam Sulik <adamsulik1988@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asulik1988/NodeJSPlayground/issues"
+  },
+  "homepage": "https://github.com/asulik1988/NodeJSPlayground#readme"
+}
